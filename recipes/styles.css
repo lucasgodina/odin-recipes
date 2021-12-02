@@ -1,0 +1,33 @@
+body {
+	background-color: #3b4252;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.title {
+	color: #ebcb8b;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+.subtitle {
+	color: #bf616a;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bolder;
+}
+
+.ingredients {
+	background-color: #4c566a;
+	text-align: center;
+	font-weight: bold;
+}
+
+.text {
+	color: #e5e9f0;
+}

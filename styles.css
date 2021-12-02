@@ -1,0 +1,18 @@
+body {
+	background-color: #3b4252;
+}
+
+.title {
+	color: #88c0d0;
+	text-align: center;
+	font-size: 50px;
+	font-weight: bold;
+	font-family: sans-serif;
+}
+
+.recipes {
+	background-color: #5e81ac;
+	text-align: center;
+	font-size: 30px;
+	font-family: sans-serif;
+}
