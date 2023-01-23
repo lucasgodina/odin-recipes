@@ -1,0 +1,30 @@
+* {
+    background-color: #2e3440;
+}
+
+h1 {
+    color: #bf616a;
+    font-size: 50px;
+}
+
+h2 {
+    color: #b48ead;
+}
+
+p {
+    color: #eceff4;
+}
+
+li {
+    color: #d8dee9;
+}
+
+a {
+    color: #88c0d0;
+    font-size: 25px;
+}
+
+img {
+    max-width: 25%;
+    height: auto;
+}
